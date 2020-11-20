@@ -31,7 +31,7 @@ body {
 }
 
 .chatbox {
-  width: 150px;
+  width: 180px;
   height: 320px;
   border-radius: 20px;
   position: relative;
@@ -42,7 +42,7 @@ body {
 }
 
 .freespace {
-  width: 100px;
+  width: 130px;
   height: 15px;
   border-radius: 40px;
   background-color: white;
@@ -52,13 +52,13 @@ body {
 }
 
 .infochat {
-  width: 150px;
+  width: 180px;
   height: 60px;
-  font-size: 5px;
+  font-size: 6px;
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
   color: white;
-  line-height: 8px;
+  line-height: 14px;
   background-image: linear-gradient(to right, #9C36F2, #BA3AD9);
 }
 
@@ -81,7 +81,7 @@ h1 {
 
 .chatarea {
   background-color: #f4f4f2;
-  width: 150px;
+  width: 180px;
   height: 255px;
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -91,7 +91,7 @@ h1 {
 .chat1 {
   font-size: 6px;
   padding: 1px 4px;
-  width: 73;
+  width: 103;
   border-radius: 6px;
   background-color: #e8e8e8;
   margin-bottom: 7px;
@@ -101,7 +101,7 @@ h1 {
 .chat2 {
   font-size: 6px;
   padding: 1px 4px;
-  width: 73px;
+  width: 103px;
   border-radius: 6px;
   background-color: white;
   margin-bottom: 7px;
@@ -112,7 +112,7 @@ h1 {
 
 .dog-photo {
   position: relative;
-  left: 70px;
+  left: 103px;
   width: 20px;
   border-radius: 3px;
   padding-right: 2px;
@@ -120,7 +120,7 @@ h1 {
 
 .pricing {
   padding: 2px;
-  width: 93px;
+  width: 123px;
   font-size: 7px;
   background-image: linear-gradient(to left, #9C36F2, #BA3AD9);
   margin: 4px 4px;
@@ -128,7 +128,7 @@ h1 {
 }
 
 span {
-  padding-left: 10px;
+  padding-left: 40px;
 }
 
 p {
@@ -138,14 +138,14 @@ p {
 
 .typearea {
   position: relative;
-  top: 25px;
+  top: 40px;
 }
 
 .message {
-  width: 142px;
+  width: 172px;
   height: 15px;
   font-size: 8px;
-  border-radius: 4%;
+  border-radius: 10%;
   border: 0px;
   margin: 0 3px;
 }
